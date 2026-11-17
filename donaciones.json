@@ -1,0 +1,20 @@
+{
+ "datos": {
+  "mensaje": "PuchiSoft es gratuito y lo desarrolla una sola persona en Argentina. Si te ahorró tiempo en el taller o con un cliente, una donación voluntaria ayuda a que siga creciendo. No es obligatoria y no cambia nada del programa: todas las funciones son gratis igual.",
+  "medios": [
+   {
+    "nombre": "Transferencia bancaria (Argentina)",
+    "titular": "José Rosas",
+    "etiqueta": "CBU",
+    "dato": "1430001713027051750012",
+    "link": ""
+   }
+  ],
+  "contacto": {
+   "Email": "puchisoftinfo@gmail.com"
+  },
+  "version": 1794883391,
+  "actualizado": "2026-11-16"
+ },
+ "firma": "K-fV67OP6roKP7vtcWeVuD7cKyAaLgsMkNd7WC8MZyvDowbVZvo8TI3uI5qPQnybpZlUSZLJX_NKmZjv7GlGb0D7dbEnvTG9xxkvEQ_EVrdNI8xKDHgKthguZ_Sfg5WnkLgZQBv6tuuMKhjEd9u36Vd5bwkT1ab2JQe3A1Hh8EmTyhtVdOEAl_RMJKs_lWp054xppYayGMAS2lAeJgsWsS5887aMhJv7kIix7Q3GTjYKPfzU0i6esUIndCZTyJnBErBq7QtORQptT4f67Sdpjl1ZtCgmwm4F-4luMsNKK3s7aEHCxgQP5n4t_1MTmzgZcymDnp9kBU4tixEp3zoieQ"
+}
